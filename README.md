@@ -1,23 +1,21 @@
 # 👋 Hi, I'm [Your Name]  
 
-![header](https://cdn.dribbble.com/users/2400293/screenshots/16099487/media/1a9d70eb4b2b4e8794b43a06c4a3b4c1.png)
+![header](https://images.steamusercontent.com/ugc/954101135156565426/21D9841F8E03ED30D91A7720388E1E8D3A464FC0/?imw=512&imh=288&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
 
 I'm a passionate **C# developer in training** with a flair for **photo and video editing**.  
-I love combining creativity and technology to build cool projects and learn new skills every day.  
 
 ---
 
-## 🛠 Skills
+## 🛠 My Skills
 
-### Programming
-- C# (currently learning) 🖥️
-- Basic OOP concepts & problem-solving
-- Git & GitHub for version control  
+### Programming & Creative Tools
+| Skill           | Level |
+|-----------------|-------|
+| Photoshop       | ▰▰▰▰▰▰▰▱▱▱ 75/100 |
+| C#              | ▰▰▰▰▱▱▱▱▱▱ 50/100 |
+| Video Editing   | ▰▰▰▰▰▰▰▱▱▱ 75/100 |
 
-### Creative Tools
-- Photoshop & GIMP 🎨
-- Premiere Pro & DaVinci Resolve 🎬
-- Canva & Figma for UI/UX design  
+> Each ▰ represents 10 points of skill.
 
 ---
 
